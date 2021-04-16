@@ -1,0 +1,11 @@
+.title {
+  color: rgb(82, 59, 46);
+  text-align: center;
+}
+
+.memo{
+  background:linear-gradient(to bottom, rgba(243, 72, 104,1) ,rgba(158, 0, 236,1) );
+  display: none;
+  padding: 0 20px;
+  font-size: 30px;
+}
